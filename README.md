@@ -3,9 +3,8 @@
 
 
 
-<img src="<<img src="https://dribbble.com/shots/14359704-gym-bot-logo-vector" alt="Gym Bot Logo" width="120"/>
+<img src="https://dribbble.com/shots/14359704-gym-bot-logo-vector" alt="Gym Bot Logo" width="120"/>
 
-"/>
 [Gym Booking Automation Bot-Amaan]
 :muscle: I created a Python-based bot to automate my gym time bookings at midnight effortlessly.
 
